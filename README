@@ -1,0 +1,10 @@
+
+  README
+  XLDashedLine
+  
+  Created by Richard Wei on 11-8-31.
+  Copyright 2011 Xinranmsn Labs. All rights reserved.
+
+This is a simple demo of dashed line implementation with cocos2d for iPhone.
+
+XLDashedLine class also works with cocos2d for Mac.
